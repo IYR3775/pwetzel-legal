@@ -40,7 +40,7 @@ You have the right to:
 - Request the deletion of your data.
 - Object to the processing of your data.
 
-If you wish to exercise any of these rights, please contact us at botsupport.iya@gmail.com or at [Our Support Server](https://discord.gg/QkrRyhpagx)
+If you wish to exercise any of these rights, please contact us at bothelp.iya@gmail.com or at [Our Support Server](https://discord.gg/QkrRyhpagx)
 
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
