@@ -39,4 +39,4 @@ To the maximum extent permitted by applicable law, Pwetzel shall not be liable f
 These Terms of Service shall be governed by and construed in accordance with the laws of United States of America, without regard to its conflict of law principles.
 
 ## Contact Us
-If you have any questions about these Terms of Service, please contact us at botsupport.iya@gmail.com or at [Our Support Server](https://discord.gg/QkrRyhpagx)
+If you have any questions about these Terms of Service, please contact us at bothelp.iya@gmail.com or at [Our Support Server](https://discord.gg/QkrRyhpagx)
